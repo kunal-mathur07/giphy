@@ -1,0 +1,13 @@
+
+
+.masonry { 
+  column-count: 3;
+  column-gap: 1em;
+  background-color: black;
+}
+.item { 
+  background-color: black;
+  display: inline-block;
+  margin: 0 0 1em;
+  width: 100%;
+}
