@@ -33,11 +33,14 @@ Clone the repository on you system got to the folder Giphy and then run npm inst
      
       App
        
-       App Component which is the main component loaded when the app starts. This component is responsible for loading the gifs on the main page and on                    clicking any of the images will load popup component.
+       App Component which is the main component loaded when the app starts. 
+       This component is responsible for loading the gifs on the main page and on clicking any of the images will load popup component.
        
       Popup
       
-       Popup component has two navigation buttons Next and Prev and selected image in the center. Clicking on Next will show the next image which comes after the          selected image and the Prev the previous one. If we are on the first image and click on prev it will load the 25th image and similarly if we are on the 25th        image clicking on next will load the first image. 
+       Popup component has two navigation buttons Next and Prev and selected image in the center. 
+       Clicking on Next will show the next image which comes after the selected image and the Prev the previous one. 
+       If we are on the first image and click on prev it will load the 25th image and similarly if we are on the 25th image clicking on next will load the first            image. 
        
    
     
