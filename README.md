@@ -40,7 +40,8 @@ Clone the repository on you system got to the folder Giphy and then run npm inst
       
        Popup component has two navigation buttons Next and Prev and selected image in the center. 
        Clicking on Next will show the next image which comes after the selected image and the Prev the previous one. 
-       If we are on the first image and click on prev it will load the 25th image and similarly if we are on the 25th image clicking on next will load the first            image. 
+       If we are on the first image and click on prev it will load the 25th image and similarly 
+       if we are on the 25th image clicking on next will load the first image. 
        
    
     
