@@ -5,7 +5,7 @@ This loads the gifs from the giphy.com limit for the number of gifs is defined a
 
 ### How to run
 
-Clone the repository on you system got to the folder Giphy  
+Clone the repository on you system go to the folder Giphy  
 
 ### run npm install 
 
