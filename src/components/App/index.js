@@ -1,9 +1,9 @@
 import React, { useState,useEffect } from 'react';
-import {getImages} from './api /apiService';
+import {getImages} from '../../api/apiService';
 
-import Popup from './Popup';
+import Popup from '../Popup';
 
-import './App.css'
+import './style.css'
 
 
 function App() {

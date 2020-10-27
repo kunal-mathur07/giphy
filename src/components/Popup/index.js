@@ -1,5 +1,5 @@
 import React,{useState,useEffect} from 'react';
-import './popup.css';
+import './style.css';
 
 function Popup(props){
     const {selectedImage, items} = props
@@ -22,7 +22,6 @@ function Popup(props){
        e.stopPropagation();
 
        setCurrentIdx(prevIdx => {
-            console.log(prevIdx)
             if(prevIdx === 0){
                 prevIdx = items.length - 1;
             } else {
