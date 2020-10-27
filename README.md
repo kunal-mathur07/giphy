@@ -5,7 +5,15 @@ This loads the gifs from the giphy.com limit for the number of gifs is defined a
 
 ### How to run
 
-Clone the repository on you system got to the folder Giphy and then run npm install. This will install all the dependencies in the package.json. Since the boilerplate used is CRA all the CRA dependencies will be installed. Once dependencies installed run npm start this will start the application in development mode.
+Clone the repository on you system got to the folder Giphy  
+
+### run npm install 
+
+This will install all the dependencies in the package.json. Since the boilerplate used is CRA all the CRA dependencies will be installed. installed 
+
+### run npm start 
+
+This will start the application in development mode.
 
 ### Folders structure
 
